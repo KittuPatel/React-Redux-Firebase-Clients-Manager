@@ -2,9 +2,9 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import { connect } from "react-redux";
-import { compose } from "redux";
+//import { compose } from "redux";
 //firebaseConnect for auth
-import { firebaseConnect } from "react-redux-firebase";
+//import { firebaseConnect } from "react-redux-firebase";
 import {
     setAllowRegistration,
     setDisableBalanceOnAdd,

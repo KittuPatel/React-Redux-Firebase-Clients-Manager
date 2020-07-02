@@ -5,8 +5,8 @@ import { connect } from "react-redux";
 import { compose } from "redux";
 //firebaseConnect for auth
 import { firebaseConnect } from "react-redux-firebase";
-import App from '../../App';
-import { auth } from 'firebase';
+//import App from '../../App';
+//import { auth } from 'firebase';
 
 export class AppNavbar extends Component {
 

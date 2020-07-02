@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import { connect } from "react-redux";
 import { compose } from "redux";
 import { firestoreConnect } from "react-redux-firebase";
-import classnames from 'classnames';
+//import classnames from 'classnames';
 import Loader from '../layout/Loader';
 
 
